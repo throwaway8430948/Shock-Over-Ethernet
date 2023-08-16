@@ -14,7 +14,7 @@ We acknowledge that this is not the most elegant or efficient solution to contro
 
 Before getting started, ensure you have:
 
-- Dr. Trainer shock collar, which can be found on Amazon. Make sure it is the model that supports app control and shock functionality.
+- Dr. Trainer shock collar, which can be found on Amazon. Make sure it is the model that supports app control and shock functionality. (Referral link, no extra cost: https://amzn.to/44j73bq)
 - An Android device running Android 4.0 or greater that has a stable internet connection.
 - A spare Windows machine capable of running Python 11, preferably Windows 10/11, with a stable internet connection.
 
