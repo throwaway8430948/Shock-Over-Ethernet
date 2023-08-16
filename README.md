@@ -1,6 +1,6 @@
 # Shock Over Ethernet
 
-This repository contains the code for a Python based Discord bot called "Dr. Trainer". This bot lets users control the Dr. Trainer shock collar through Discord commands. This bot can also be adapted and used outside of Discord to control the shock collar through other mechanisms.
+This repository contains the code for a Python based Discord bot called "Shock Over Ethernet". This bot lets users control the Dr. Trainer shock collar through Discord commands. This bot can also be adapted and used outside of Discord to control the shock collar through other mechanisms.
 
 ## Ethical Disclaimer
 
