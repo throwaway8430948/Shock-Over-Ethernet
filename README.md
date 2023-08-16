@@ -10,7 +10,7 @@ This project is meant for educational and experimental purposes only. The creato
 
 We acknowledge that this is not the most elegant or efficient solution to control the shock collar. As at the moment of writing this, the exact Bluetooth signals sent by the Dr. Trainer app are unknown. This project is a workaround till a better solution is found.
 
-## Prerequisites
+## What you need to have
 
 Before getting started, ensure you have:
 
